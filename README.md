@@ -1,5 +1,4 @@
-This is a personal project based on Lucide Icons.
-I replaced all the colors in the icons with colors from Tokyo Night.
+This is a personal project based on Lucide Icons and Tokyo Night.
 
 # Icons
 
@@ -7,20 +6,35 @@ Beautiful icons for [Zed](https://zed.dev).
 
 ![Preview Image](/images/preview-icons.webp)
 
-# License
-
-Just respect the License of Lucide, see below.
-
-**Note:** More icons will not be available until file type associations are added to the core of Zed. I am also working on this.
-
 ## Changelog
 
-**0.0.1** 
-Creating the project
+**0.0.4**
+Renamed the project, added a preview image.
 
-# Relevant Licenses
+**0.0.3**
+Started to replace icons with icons from Lucide Icons and add custom icons based on Lucid Icons.
+
+**0.0.2**
+Change the colors for the icons to match the Tokyo Night theme.
+
+**0.0.1**
+Forking the icon project from https://github.com/sethstha/bearded-icons-theme
+
+# Thanks to
+
+This project is made possible by the following awesome projects:
+
+- [Lucide Icons](https://lucide.dev/)
+- [Tokyo Night](https://github.com/folke/tokyonight.nvim)
+- [Bearded Icons](https://github.com/sethstha/bearded-icons-theme)
+- [Catppuccin Zed Icons](https://github.com/catppuccin/zed-icons)
+
+# License
+
+Just respect the License of Lucide and other projects.
 
 ## Lucide License
+
 ISC License
 
 Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2022 as part of Feather (MIT). All other copyright (c) for Lucide are held by Lucide Contributors 2022.

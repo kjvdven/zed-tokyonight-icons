@@ -70,7 +70,7 @@
         "scala": { "path": "./icons/night/scala.svg" },
         "settings": { "path": "./icons/night/settings.svg" },
         "solidity": { "path": "./icons/night/sol.svg" },
-        "storage": { "path": "./icons/night/sql.svg" },
+        "storage": { "path": "./icons/night/storage.svg" },
         "stylelint": { "path": "./icons/night/stylelint.svg" },
         "svelte": { "path": "./icons/night/svelte.svg" },
         "swift": { "path": "./icons/night/swift.svg" },

@@ -1,7 +1,7 @@
-id = "bearded-icon-tokyo-theme"
-name = "Bearded Icon Tokyo Theme"
-version = "0.3.0"
+id = "tokyonight-icons"
+name = "Tokyo Night Icons"
+version = "0.0.1"
 schema_version = 1
-authors = ["Kris van der Ven"]
-description = "Bearded icon theme for Zed with Tokyo color scheme"
-repository = "https://github.com/kjvdven/bearded-icons-tokyo-theme.git"
+authors = [""]
+description = "Icons for Zed based on Lucide Icons with a Tokyo Night theme"
+repository = "https://github.com/kjvdven/zed-tokyonight-icons"
