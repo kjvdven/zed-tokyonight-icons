@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is archived. Its successor is [Lucide Icons for Zed](https://github.com/kjvdven/lucide-zed-icons): a fresh start with strict Lucide geometry, tuned for Tokyo Night.
+
 This is a personal project based on Lucide Icons and Tokyo Night.
 
 # Icons
